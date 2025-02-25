@@ -1,0 +1,22 @@
+
+#root{
+      display: flex;
+      background-color: #2E2E2E;
+      flex-direction: column;
+      align-items: stretch;
+      
+}
+
+
+
+#NavbarHeader{
+  background-color: #D4A017 !important;
+}
+
+.PerfilImage{
+    border:solid transparent 1px;
+    border-radius: 50px;
+    margin-left: 10px;
+    width: 3%;
+    height: 5%;
+}
